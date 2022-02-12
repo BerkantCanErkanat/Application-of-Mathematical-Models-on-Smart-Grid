@@ -1,0 +1,2 @@
+clear;clc;
+parameters = initializeParameters();
